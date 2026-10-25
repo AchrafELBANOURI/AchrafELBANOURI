@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing data structures in java<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact
+🔭 I’m currently trying to learn React Native by working on SubTrack - Subscription Management Mobile App<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 My Learning Plan is React Native (currently) , DevOps + Microservices , AWS , React Useful Libraries Like Redux... And AI<br>
 
 
 ## 🌐 Socials:
